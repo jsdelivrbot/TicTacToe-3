@@ -1,2 +1,8 @@
-# React-redux-boilerplate
-Starter boiler plate for react redux. Reused for various projects
+# Tic Tac Toe Game in React
+To run on local:
+
+cmd "project location"
+npm install
+npm run
+
+Open localhost:3000
